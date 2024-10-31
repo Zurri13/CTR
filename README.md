@@ -1,6 +1,3 @@
 # CTR
-Nikita Naumovich Dzmitrievich
+Nikita Naumovich
 272302
-ief
-Bsuir
-sharaga
