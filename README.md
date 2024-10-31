@@ -1,4 +1,4 @@
 # CTR
-Nikita Naumovich
+Nikita Naumovich Dzmitrievich
 272302
 ief
