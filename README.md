@@ -1,3 +1,3 @@
 # CTR
-Nikita
+Nikita Naumovich
 272302
