@@ -1,5 +1,3 @@
 # CTR
-Nikita Naumovich
+Nikita
 272302
-IEF
-777
